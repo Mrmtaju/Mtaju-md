@@ -52,7 +52,8 @@ Deployments methods
 </p>
 
 <p align="left" >
-    <a href="https://heroku.com/deploy?template=https://github.com/Lazack28/Mtaju-md" >
+    <a href="(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lazack28/Mtaju-md/)
+" >
     <img src="https://www.herokucdn.com/deploy/button.png" width="250px" alt="Deploy to Heroku" >
     </a>
 
