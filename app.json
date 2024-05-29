@@ -1,9 +1,9 @@
 {
-  "name":"Lazack",
-  "description":"bot whatsapp developed by Lazack",
-  "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/1dc10a39146c80069a439.jpg",
-  "repository":"https://github.com/Lazack28/Mtaju-md"
+  "name": "CheemsBot-MD",
+  "description": "whatsapp md bot build with nodejs",
+  "repository": "https://github.com/DGXeon/CheemsBot-MD11",
+  "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
       "url": "heroku/nodejs"
